@@ -182,7 +182,8 @@
 		],
 		"parameters": {
 			"TargetStorageName": {
-				"type": "string"
+				"type": "string",
+				"defaultValue": "synapsee2elake"
 			},
 			"DatasetSize": {
 				"type": "string",
